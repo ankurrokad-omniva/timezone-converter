@@ -3,6 +3,7 @@ import { DateTime } from "luxon";
 import { useState } from "react";
 
 const timezones = [
+  "America/Chicago",
   "America/New_York",
   "Europe/London",
   "Asia/Kolkata",
